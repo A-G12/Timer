@@ -1,0 +1,2 @@
+-keep class com.timer.app.** { *; }
+-keepattributes *Annotation*

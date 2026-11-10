@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="accessibility_service_label">Timer App Blocker</string>
+    <string name="accessibility_service_description">Timer needs accessibility access to block distracting apps when your daily limit is reached.</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_apps">Apps</string>
+    <string name="nav_synergy">Sinergia</string>
+    <string name="nav_coupons">Cupones</string>
+    <string name="nav_settings">Ajustes</string>
+</resources>
